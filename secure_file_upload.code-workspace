@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../tfc-app"
+		},
+		{
+			"name": "security",
+			"path": "security"
+		}
+	],
+	"settings": {}
+}
